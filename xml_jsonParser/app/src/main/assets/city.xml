@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record>
+    <place>
+        <name>Mysore</name>
+        <lat>12.2985</lat>
+        <long>76.639</long>
+        <temp>22</temp>
+        <humid>90%</humid>
+    </place>
+    <place>
+        <name>Bengaluru</name>
+        <lat>12.2985</lat>
+        <long>76.639</long>
+        <temp>22</temp>
+        <humid>90%</humid>
+    </place>
+</record>
